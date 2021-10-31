@@ -70,6 +70,7 @@ insert into perfomers_albums(performers_id, albums_id) VALUES(5, 5);
 insert into perfomers_albums(performers_id, albums_id) VALUES(6, 6);
 insert into perfomers_albums(performers_id, albums_id) VALUES(7, 7);
 insert into perfomers_albums(performers_id, albums_id) VALUES(8, 8);
+insert into perfomers_albums(performers_id, albums_id) VALUES(5, 1);
 
 
 insert into collectin_trak(collection_id, trak_id) VALUES(1, 5);
